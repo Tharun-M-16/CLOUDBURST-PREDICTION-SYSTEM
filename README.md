@@ -1,7 +1,5 @@
 # ⚡ CLOUDBURST PREDICTION SYSTEM ⚡
 
-![Cloudburst Prediction System](screenshot.png)
-
 ## 🌟 Overview
 
 An **AI-Powered Weather Disaster Analysis System** that predicts cloudburst events using machine learning. The application features a modern, futuristic dark-themed UI with advanced visualization capabilities and real-time predictions.
